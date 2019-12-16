@@ -1,0 +1,6 @@
+installation TensorFlow dans Anaconda: 
+  After installed Anaconda, open the Anaconda Prompt.
+  Now, Anaconda is supporting Tensorflow 2.0.0 so we can create the environment containing TF2 directly.
+    conda create -n your_env_name python=3.6 tensorflow-gpu
+  Activate your_environment
+    conda activate your_env_name
